@@ -23,23 +23,3 @@ Innovators ( < 2 % ) | Early Adopters ( 10 % ) | Early Majority ( 25 % ) | Late 
 *3-5 Questions you would want asked of any particular "customer" (suspects, prospects) 
 
 For the example, see this GDrive link:
-
-Example: Elite *Medical* Training Solutions (Not-obvious!)
-
-B2B - Business (selling) to a Business. (Fire Department)
-B2C - Business (selling) to a Customer / Individual / Consumer. (Individual First Responder)
-
-1. Do you have a State Certification / National Certification - as a First Responder / EMS (Emergency Medical Services)?
-2. What are you currently doing (for your continuing education), to maintain your certification? CE / (CEUs)
-3. Do you currently pay for a service? ...
-
-Questions you would want asked of any particular "customer" (suspects, prospects) 
-
-Hypothesis:  Who are your top *3-5 current customers (Innovator / Early Adopter)
-
-1. (B2B) Fire Department (*Medical Certifications) - City of Alton
-2. (B2C) Ben Martinez - MedCare (EMS Provider)
-3. (B2B) Private Services - vs. 911 Providers - Transport Patients / Transfers
-
-Hernan: #1 RFP, Bids, complex, "process" ... timing
-Hernan: Fire Department vs. EMS (differences? efforts? costs?)
