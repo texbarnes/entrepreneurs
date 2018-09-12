@@ -4,6 +4,14 @@ Customers. The one who pays for your product and service.
 Stakeholders. People who benefit from your product and service.
 Find Early Adopters.
 
+Our Goal For The Entire Class:
+(Creative, Cheap) Create MVP (hypothetical solutions <> hypothetical customers), Run Tests!
+
+Alternative Tests: Train someone to take your place...
+
+(Selective, Strategic) Partial Solve = *Problem <> Solution Fit* (1-2 years or less)
+(Aggressive, Market Scale) True solve = Product <> Market Fit (5-10 years)
+
 Communication is huge. Be thoughtful (careful). Be honest. Be proactive.
 
 Customer Validation = Flirting
