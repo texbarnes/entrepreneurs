@@ -29,3 +29,19 @@ Hypothesis:  Who are your top *3-5 current customers (Innovator / Early Adopter)
 3.
 
 For the example, see this GDrive link: https://docs.google.com/document/d/1j0Z1WH9iu5nvbjsZ_AKemfB7PJSw6LTa2O9J-mdJKFg/edit?usp=sharing
+
+Class Notes:
+
+Module 1 - Intro to Customer (re)Discovery
+
+While it’s easy to assign yourself the title of CEO/President, and to visualize yourself at the center of your entrepreneur’s journey, what you will learn in this first module is how to place your customers at the center of your business.  Beyond abstract discussion, we will work together to identify and engage a handful of real customers right from the start.
+
+Who is my customer, really? How often should I talk to them? What should I ask? How can customers inform “my” idea? How can it become “our” idea? What severe pain are my customers facing? How might I alleviate their pain? 
+
+These questions and more will be addressed through a series of research-based practices and well-established exercises, with a goal of refocusing your priorities on the real center of your business: the customer.
+
+Nice idea: So What? Who Cares?
+What is Customer (re)Discovery?
+Lean Canvas 101
+Design Thinking: The “Dialectical” Journey
+The Delusional Entrepreneur: Overcoming Cognitive Bias
