@@ -22,4 +22,4 @@ Innovators ( < 2 % ) | Early Adopters ( 10 % ) | Early Majority ( 25 % ) | Late 
 
 *3-5 Questions you would want asked of any particular "customer" (suspects, prospects) 
 
-For the example, see this GDrive link:
+For the example, see this GDrive link: https://docs.google.com/document/d/1j0Z1WH9iu5nvbjsZ_AKemfB7PJSw6LTa2O9J-mdJKFg/edit?usp=sharing
