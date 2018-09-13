@@ -38,6 +38,8 @@ Hypothesis:  Who are your top *3-5 current customers (Innovator / Early Adopter)
 
 For the example, see this GDrive link: https://docs.google.com/document/d/1j0Z1WH9iu5nvbjsZ_AKemfB7PJSw6LTa2O9J-mdJKFg/edit?usp=sharing
 
+Here is our curriculum folder: https://drive.google.com/drive/u/2/folders/1vljzlQ-yOm36hMiEK2FeqOHlsA0XHXej?ogsrc=32
+
 Class Notes:
 
 Module 1 - Intro to Customer (re)Discovery
